@@ -1,2 +1,2 @@
-# collaborative-filter-movie-recommender-system
-Collaborative filter recommender system for movie recommendation
+# COLLABORATIVE FILTER MOVIE RECOMMENDER SYSTEM
+Having fore-knowledge of how a user would react to an item is an invaluable input to the process of deciding what to suggest to who. This fore-knowledge is what recommender system provides. In this project, I developed a collaborative filter recommender system to predict how users would react to movies on video streaming app with a view to determining what movie to recommend to who. The dataset used in this project is The MovieLens dataset which was downloaded from Grouplens. Eleven (11) different models which are based on various variants of collaborative filter algorithm were fitted to the dataset and the best model was selected for predictions.
